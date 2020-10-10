@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: white;
+    font-family: 'Baloo Da', cursive;
+}
+
+header{
+    width: 100%;
+    height: auto;
+    background: rgba(0, 72, 255, 0.47);
+    color: #ffffff;
+}
+
+header h1{
+    text-align: center;
+    font-size: 36px;
+    padding: 5px;
+}
+
+main{
+    width: vw;
+    height: vh;
+    justify-content: center;
+    text-align: center;
+}
+
+.visualization{
+    width: 100%;
+    display: inline-block;
+}
+

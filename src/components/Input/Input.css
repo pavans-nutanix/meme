@@ -1,0 +1,40 @@
+.InputContainer{
+    margin: 5% auto;
+    width: 95%;
+    text-align: center;
+}
+
+.InputWrite{
+    width: 60%;
+}
+
+.descInput{
+    margin: 0 10px;
+}
+
+input{
+    font-family: 'Baloo Da', cursive;
+    background: none;
+    border: none;
+    border-bottom: 1px solid black;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+}
+
+.SimpleInput{
+    display: block;
+    margin: 10px auto;
+}
+
+@media (min-width: 600px) {
+    .InputContainer{
+        margin: 15px auto;
+        width: 70%;
+        text-align: center;
+    }
+
+    .InputWrite{
+        width: 25%; 
+    } 
+}
