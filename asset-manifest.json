@@ -1,0 +1,22 @@
+{
+  "main.css": "/meme/static/css/main.6708d66c.chunk.css",
+  "main.js": "/meme/static/js/main.49f310e5.chunk.js",
+  "main.js.map": "/meme/static/js/main.49f310e5.chunk.js.map",
+  "runtime~main.js": "/meme/static/js/runtime~main.1c7c63e9.js",
+  "runtime~main.js.map": "/meme/static/js/runtime~main.1c7c63e9.js.map",
+  "static/css/2.47de3b58.chunk.css": "/meme/static/css/2.47de3b58.chunk.css",
+  "static/js/2.ff3cbf98.chunk.js": "/meme/static/js/2.ff3cbf98.chunk.js",
+  "static/js/2.ff3cbf98.chunk.js.map": "/meme/static/js/2.ff3cbf98.chunk.js.map",
+  "index.html": "/meme/index.html",
+  "precache-manifest.d1412e035e05f23b70b2ebf8204770f9.js": "/meme/precache-manifest.d1412e035e05f23b70b2ebf8204770f9.js",
+  "service-worker.js": "/meme/service-worker.js",
+  "static/css/2.47de3b58.chunk.css.map": "/meme/static/css/2.47de3b58.chunk.css.map",
+  "static/css/main.6708d66c.chunk.css.map": "/meme/static/css/main.6708d66c.chunk.css.map",
+  "static/media/font-awesome.min.css": "/meme/static/media/fontawesome-webfont.fee66e71.woff",
+  "static/media/fry.jpg": "/meme/static/media/fry.452b990b.jpg",
+  "static/media/jobs.jpg": "/meme/static/media/jobs.4e18f328.jpg",
+  "static/media/padubidri.jpeg": "/meme/static/media/padubidri.f0abf41b.jpeg",
+  "static/media/phone.jpg": "/meme/static/media/phone.11cac8cf.jpg",
+  "static/media/sad.jpg": "/meme/static/media/sad.1581f5fa.jpg",
+  "static/media/wonka.jpg": "/meme/static/media/wonka.f2424730.jpg"
+}
